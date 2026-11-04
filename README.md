@@ -10,8 +10,10 @@ Original code and level layouts. See LICENSE.
 
 ## Download and feedback
 
-[Download the v0.1 ZIP](https://codeload.github.com/Dexter-Ou/circuit-break/zip/efb724df8e4c7cfa27b1ca5b7f2d1ede347fc5a3). Extract it, then open `index.html` in the extracted folder. The download is pinned to a fixed source revision.
+[Download the v0.1.1 ZIP](https://codeload.github.com/Dexter-Ou/circuit-break/zip/f8d84e6d84a5bc39a6d32c48261363386898af8c). Extract it, then open `index.html` in the extracted folder. The download is pinned to a fixed source revision.
 
-Automated Chromium checks covered all three circuits, reset, keyboard controls, progression and reload at desktop and mobile widths. Touch input, screen readers and other browsers have not been tested.
+Automated Chromium checks covered all three circuits, reset, keyboard controls, progression and reload at desktop and mobile widths. Emulated touchscreen taps were also checked at narrow mobile widths. Physical touch devices, screen readers and other browsers have not been tested.
 
 [Report a bug or share play feedback](https://github.com/Dexter-Ou/circuit-break/issues). Useful details: browser/device, which circuit, what was unclear, and what happened. GitHub requires an account to submit an issue. Support is best effort; no response time is promised.
+
+The in-game feedback link opens a prefilled GitHub issue draft. Nothing is posted automatically. Review the draft before submitting; reports are public, so omit personal details. An internet connection and GitHub account are needed only to post feedback.
