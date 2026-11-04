@@ -1,19 +1,15 @@
-# Circuit Break
+# Circuit Break v0.1.2
 
 A small offline wire-routing puzzle with three handcrafted circuits.
 
-Open `index.html` in a current browser. No installation, server, account or network connection is required. Rotate wires to connect S to T with no open ends on the powered route. Click/tap, or use Tab and Enter/Space. Green wires are powered. Reset restarts the current circuit; reloading starts from circuit one.
+Extract this ZIP and open `index.html` in a current browser. No installation, server, account or network connection is required to play. Rotate wires to connect S to T with no open ends on the powered route. Click/tap, or use Tab and Enter/Space. Green wires are powered. Reset restarts the current circuit; reloading starts from circuit one.
 
-This prototype has no timer, storage, telemetry, external assets or dependencies. Three levels only. Progress is not saved. It is a game, not electrical engineering or safety guidance.
+The third circuit has a revised wire layout. Empty tiles cannot be rotated. The first two circuits and connection rules are unchanged.
 
-Original code and level layouts. See LICENSE.
+Three levels only. No timer, storage, telemetry, external assets or dependencies. Progress is not saved. It is a game, not electrical engineering or safety guidance.
 
-## Download and feedback
+Automated Chromium keyboard checks covered all three circuits, reset, progression and reload at 320px width. Physical touch devices, screen readers and other browsers have not been tested for this revision.
 
-[Download the v0.1.1 ZIP](https://codeload.github.com/Dexter-Ou/circuit-break/zip/f8d84e6d84a5bc39a6d32c48261363386898af8c). Extract it, then open `index.html` in the extracted folder. The download is pinned to a fixed source revision.
+[Report a bug or share play feedback](https://github.com/Dexter-Ou/circuit-break/issues): include browser/device, circuit and what happened. Posting requires internet and a GitHub account. Reports are public; omit personal details. The in-game feedback link opens a draft; review before submitting. Nothing is posted automatically. Support is best effort, with no promised response time.
 
-Automated Chromium checks covered all three circuits, reset, keyboard controls, progression and reload at desktop and mobile widths. Emulated touchscreen taps were also checked at narrow mobile widths. Physical touch devices, screen readers and other browsers have not been tested.
-
-[Report a bug or share play feedback](https://github.com/Dexter-Ou/circuit-break/issues). Useful details: browser/device, which circuit, what was unclear, and what happened. GitHub requires an account to submit an issue. Support is best effort; no response time is promised.
-
-The in-game feedback link opens a prefilled GitHub issue draft. Nothing is posted automatically. Review the draft before submitting; reports are public, so omit personal details. An internet connection and GitHub account are needed only to post feedback.
+Original code and level layouts. MIT licensed; see LICENSE.
