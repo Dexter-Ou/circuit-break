@@ -2,7 +2,7 @@
 
 Rotate the wires to bring power from **S** to **T**, with no open ends along the powered route. Three handcrafted circuits; no timer.
 
-1. Download the source ZIP from the repository download link.
+1. [Download the fixed v0.1.2 source ZIP](https://codeload.github.com/Dexter-Ou/circuit-break/zip/870fbdc5b7da1c71f77819355b27503a8927c77f).
 2. Extract the ZIP. Open the extracted folder and open `index.html` in a current browser. Open the extracted file, rather than a preview inside the archive.
 3. Click or tap a tile to rotate it clockwise. With a keyboard, Tab to a tile and press Enter or Space. S and T rotate too.
 4. Follow the green powered wires from S. Turn tiles until the route reaches T with no open ends. Then choose **Next circuit**.
